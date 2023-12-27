@@ -1,0 +1,18 @@
+body, html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    font-family: 'Courier New';
+}
+
+
+.typewriter h1 {
+  color: #33f933;
+  font-size: 64px;
+  overflow: hidden;
+  text-shadow: 1px 1px 9px rgb(51,249,51);
+}
